@@ -2,6 +2,8 @@
 name = "avtp_protocol"
 version = "0.1.0"
 authors=["AkiDev <contact@aki-dev.com>"]
+description = "AVTP (Audio Voice Transfer Protocol) is a Rust library for efficient audio data transmission over TCP, featuring simple header-based message formatting and cross-platform compatibility."
+license = "MIT"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
